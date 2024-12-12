@@ -1,0 +1,24 @@
+digraph {
+	graph [rankdir=LR]
+	"Historical Data" [fillcolor=lightblue shape=box style=filled]
+	"Listing Year" [fillcolor=lightgrey shape=box style=filled]
+	Make [fillcolor=lightblue shape=box style=filled]
+	Model [fillcolor=lightgrey shape=box style=filled]
+	Year [fillcolor=lightblue shape=box style=filled]
+	Trim [fillcolor=lightgrey shape=box style=filled]
+	"Car Details" [fillcolor=lightblue shape=box style=filled]
+	Locations [fillcolor=lightgrey shape=box style=filled]
+	Sources [fillcolor=lightblue shape=box style=filled]
+	"Aggregated Data" [fillcolor=lightgrey shape=box style=filled]
+	"Machine Learning Predictions" [fillcolor=lightblue shape=box style=filled]
+	"Historical Data" -> "Listing Year"
+	"Listing Year" -> Make
+	Make -> Model
+	Model -> Year
+	Year -> Trim
+	Trim -> "Car Details"
+	"Historical Data" -> Locations
+	"Historical Data" -> Sources
+	"Historical Data" -> "Aggregated Data"
+	"Aggregated Data" -> "Machine Learning Predictions"
+}
