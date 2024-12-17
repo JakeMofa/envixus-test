@@ -1,4 +1,5 @@
 # envixus-test
+[![Changelog](https://img.shields.io/badge/changelog-view%20updates-blue)](CHANGELOG.md)
 
 [![MasterHead](https://c.tenor.com/_7r8RXryt3QAAAAC/python-powered.gif)]
 
