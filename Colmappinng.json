@@ -1,0 +1,139 @@
+{
+  "listing_years": {
+    "year": "Listing Year"
+  },
+  "colors": {
+    "name": "Color Name",
+    "hex_code": "Color Hex Code"
+  },
+  "makes": {
+    "name": "Make Name"
+  },
+  "engine_types": {
+    "name": "Engine Type"
+  },
+  "body_types": {
+    "name": "Body Type"
+  },
+  "doors": {
+    "number_of_doors": "Number of Doors"
+  },
+  "seats": {
+    "number_of_seats": "Number of Seats"
+  },
+  "transmissions": {
+    "type": "Transmission Type"
+  },
+  "drive_trains": {
+    "type": "Drive Train"
+  },
+  "fuel_types": {
+    "name": "Fuel Type"
+  },
+  "title_statuses": {
+    "status": "Title Status"
+  },
+  "conditions": {
+    "type": "Condition"
+  },
+  "locations": {
+    "state": "State",
+    "city": "City",
+    "county": "County",
+    "zipcode": "Zip Code",
+    "region": "Region"
+  },
+  "models": {
+    "make_id": "Make Name",
+    "name": "Model Name"
+  },
+  "trims": {
+    "model_id": "Model Name",
+    "name": "Trim Name",
+    "description": "Trim Description"
+  },
+  "engines": {
+    "engine_type_id": "Engine Type",
+    "cylinders": "Cylinders",
+    "engine_size_l": "Engine Size (L)",
+    "horsepower": "Horsepower"
+  },
+  "manufacturing_years": {
+    "year": "Manufacturing Year"
+  },
+  "epa_metrics": {
+    "epa_combined_mpg": "EPA Combined MPG",
+    "epa_city_mpg": "EPA City MPG",
+    "epa_highway_mpg": "EPA Highway MPG",
+    "epa_electric_range_mi": "EPA Electric Range (Mi)",
+    "epa_time_to_charge_240v_hr": "EPA Time to Charge (Hr)",
+    "battery_capacity_kwh": "Battery Capacity (kWh)"
+  },
+  "torque": {
+    "torque_ft_lbs": "Torque (Ft-Lbs)",
+    "torque_rpm": "Torque (RPM)"
+  },
+  "base_vehicles": {
+    "make_id": "Make Name",
+    "model_id": "Model Name",
+    "trim_id": "Trim Name",
+    "manufacture_year_id": "Manufacturing Year",
+    "exterior_color_id": "Exterior Color",
+    "interior_color_id": "Interior Color",
+    "body_type_id": "Body Type",
+    "door_id": "Number of Doors",
+    "seat_id": "Number of Seats",
+    "engine_id": "Engine Type",
+    "transmission_id": "Transmission Type",
+    "drive_train_id": "Drive Train",
+    "fuel_type_id": "Fuel Type",
+    "fuel_tank_capacity_gal": "Fuel Tank Capacity"
+  },
+  "vehicles": {
+    "base_vehicle_id": "Base Vehicle",
+    "location_id": "Location",
+    "listing_year_id": "Listing Year",
+    "vin": "VIN",
+    "price": "Price",
+    "msrp": "MSRP",
+    "mileage": "Mileage",
+    "title_status_id": "Title Status",
+    "condition_id": "Condition",
+    "days_on_market": "Days on Market",
+    "date_captured": "Date Captured",
+    "date_added": "Date Added",
+    "date_modified": "Date Modified",
+    "accidents_reported": "Accidents Reported",
+    "owner_count": "Owner Count",
+    "rental_use": "Rental Use"
+  },
+  "vehicle_colors": {
+    "vehicle_id": "Vehicle ID",
+    "color_id": "Color ID",
+    "color_type": "Color Type"
+  },
+  "sources": {
+    "name": "Source Name",
+    "source_url": "Source URL",
+    "image_url": "Image URL"
+  },
+  "live_scraped_data": {
+    "vehicle_id": "Vehicle ID",
+    "listing_year_id": "Listing Year",
+    "price": "Price",
+    "mileage": "Mileage",
+    "msrp": "MSRP",
+    "date_captured": "Date Captured",
+    "source_id": "Source ID"
+  },
+  "historical_data": {
+    "vehicle_id": "Vehicle ID",
+    "listing_year_id": "Listing Year",
+    "price": "Price",
+    "mileage": "Mileage",
+    "msrp": "MSRP",
+    "date_captured": "Date Captured",
+    "date_archived": "Date Archived",
+    "source_id": "Source ID"
+  }
+}
