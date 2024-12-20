@@ -5,10 +5,10 @@
 
 This Repository contain all test cases and operations of Envixus
 
-## There are going to be more updated instructions later on whil code increases
+## There are going to be more updated instructions later on while code increases
 
 ## Prerequisties
-Before running this project, make sure you have the following isntalled:
+Before running this project, make sure you have the following installed:
 
 Python 3.10 or higher
 Git for cloning repository
@@ -19,7 +19,7 @@ Git for cloning repository
 1. ##  Clone the Repository
 
 
-2. ## Set up Virtual Enviroment 
+2. ## Set up Virtual Environment 
 Create a Venv to keep dependencies isoloated
 
  Create a virtual environment to keep dependencies isolated:
@@ -34,7 +34,7 @@ macOS/Linux:
 `source env/bin/activate`
 Windows:
 
-3. ##  Pip freeze requriments.txt Install dependencies
+3. ##  Pip freeze requirements.txt Install dependencies
 Unfreeze the pip and  install all the dependencies
 
 `pip install -r requirements.txt`
