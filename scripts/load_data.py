@@ -280,7 +280,7 @@ def load_data_to_final_db(cleaned_csv):
             session.close()
 
 if __name__ == "__main__":
-    cleaned_csv = '/Users/dean/Documents/GitHub/envixus-test/data/cleaned_used_cars_datafeed.csv'
+    cleaned_csv = './data/cleaned_used_cars_datafeed.csv'
 
     # Load data to temporary database
     load_data_to_temp_db(cleaned_csv)
