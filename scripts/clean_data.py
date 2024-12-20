@@ -65,6 +65,6 @@ def clean_and_reformat_data(input_csv, output_csv):
         print(f"Something went wrong: {e}")
 
 if __name__ == "__main__":
-    input_csv = '/Users/dean/Documents/GitHub/envixus-test/data/carapi-opendatafeed-sample 3.csv'
-    output_csv = '/Users/dean/Documents/GitHub/envixus-test/data/cleaned_used_cars_datafeed.csv'
+    input_csv = './data/carapi-opendatafeed-sample 3.csv'
+    output_csv = './data/cleaned_used_cars_datafeed.csv'
     clean_and_reformat_data(input_csv, output_csv)
