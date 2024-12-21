@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: diGraph
+Version: 0.1.4
+Summary: For plotting DiGraphs
+Home-page: https://github.com/francisp336/diGraph
+Author: Peter Francis
+Author-email: franpe02@gettysburg.edu
+License: UNKNOWN
+Keywords: DiGraph
+Platform: UNKNOWN
+Requires-Python: >=3.0.0
+Description-Content-Type: text/markdown
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+
+# diGraph
+
+A python module for plotting Directed Graphs using a simulation of springs and charged particles.
+
+You can import this module with PIP.
+
+>`pip install ifsFractals --upgrade`
+
+or
+
+>`python3 -m pip install --user ifsFractals --upgrade`
+
+PyPi release page: https://pypi.org/project/diGraph/.
+
+See https://share.cocalc.com/share/f6aee960-eb32-4259-a1ff-cddafc5864a0/New%20Projects%20and%20Problems/Springboard%20Graphs.ipynb?viewer=embed for examples and a mathematical explanation.
+
+

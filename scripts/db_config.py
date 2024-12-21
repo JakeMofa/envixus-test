@@ -1,15 +1,20 @@
 import psycopg2
 from psycopg2 import pool, sql
+from dotenv import load_dotenv
+import os
+
+# Cargar las variables de entorno desde el archivo .env
+load_dotenv()
 
 DB_CONFIG = {
-    'dbname': 'envixus',
-    'user': 'postgres',
-    'password': 'envixus19',
-    'host': 'localhost',
-    'port': '5432'
+    'dbname': os.getenv('DB_NAME'),
+    'user': os.getenv('DB_USER'),
+    'password': os.getenv('DB_PASSWORD'),
+    'host': os.getenv('DB_HOST'),
+    'port': os.getenv('DB_PORT')
 }
 
-TEMP_DB_NAME = "temp_envixus"
+TEMP_DB_NAME = os.getenv('TEMP_DB_NAME')
 
 def create_temp_database():
     """Create a temporary database for validation."""
