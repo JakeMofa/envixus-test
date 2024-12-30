@@ -12,16 +12,21 @@ search_url = f'https://www.cargurus.com/Cars/inventorylisting/viewDetailsFilterV
 print("Generated search URL:", search_url)
 
 # Request the CarGurus search page
-search_response = requests.get(search_url)
+search_response = requests.get(search_url) 
 if search_response.status_code == 200:
     search_soup = BeautifulSoup(search_response.content, 'html.parser')
+    
+    def findcar(self, car,model):
+        for car in cars:
+            if car
     
     # Find the first car in the search results
     first_car = search_soup.find('a', class_='cg-dealFinder-result-stats')
     if first_car:
         car_url = 'https://www.cargurus.com' + first_car['href']
         print("First car URL:", car_url)
-        
+
+
         # Request the car details page
         car_response = requests.get(car_url)
         if car_response.status_code == 200:
