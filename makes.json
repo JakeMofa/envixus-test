@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "name": "Acura"
+  },
+  {
+    "id": 2,
+    "name": "Alfa Romeo"
+  },
+  {
+    "id": 3,
+    "name": "Aston Martin"
+  },
+  {
+    "id": 4,
+    "name": "Audi"
+  },
+  {
+    "id": 5,
+    "name": "Bentley"
+  },
+  {
+    "id": 6,
+    "name": "BMW"
+  },
+  {
+    "id": 7,
+    "name": "Buick"
+  },
+  {
+    "id": 8,
+    "name": "Cadillac"
+  },
+  {
+    "id": 9,
+    "name": "Chevrolet"
+  },
+  {
+    "id": 10,
+    "name": "Chrysler"
+  },
+  {
+    "id": 11,
+    "name": "Dodge"
+  },
+  {
+    "id": 12,
+    "name": "Ferrari"
+  },
+  {
+    "id": 13,
+    "name": "Fiat"
+  },
+  {
+    "id": 14,
+    "name": "Ford"
+  },
+  {
+    "id": 15,
+    "name": "Genesis"
+  },
+  {
+    "id": 16,
+    "name": "GMC"
+  },
+  {
+    "id": 17,
+    "name": "Honda"
+  },
+  {
+    "id": 18,
+    "name": "Hyundai"
+  },
+  {
+    "id": 19,
+    "name": "Infiniti"
+  },
+  {
+    "id": 20,
+    "name": "Jaguar"
+  },
+  {
+    "id": 21,
+    "name": "Jeep"
+  },
+  {
+    "id": 22,
+    "name": "Kia"
+  },
+  {
+    "id": 23,
+    "name": "Lamborghini"
+  },
+  {
+    "id": 24,
+    "name": "Land Rover"
+  },
+  {
+    "id": 25,
+    "name": "Lexus"
+  },
+  {
+    "id": 26,
+    "name": "Lincoln"
+  },
+  {
+    "id": 27,
+    "name": "Lotus"
+  },
+  {
+    "id": 28,
+    "name": "Maserati"
+  },
+  {
+    "id": 29,
+    "name": "Mazda"
+  },
+  {
+    "id": 30,
+    "name": "McLaren"
+  },
+  {
+    "id": 31,
+    "name": "Mercedes-Benz"
+  },
+  {
+    "id": 32,
+    "name": "MINI"
+  },
+  {
+    "id": 33,
+    "name": "Mitsubishi"
+  },
+  {
+    "id": 34,
+    "name": "Nissan"
+  },
+  {
+    "id": 35,
+    "name": "Porsche"
+  },
+  {
+    "id": 36,
+    "name": "Ram"
+  },
+  {
+    "id": 37,
+    "name": "Rolls-Royce"
+  },
+  {
+    "id": 38,
+    "name": "Subaru"
+  },
+  {
+    "id": 39,
+    "name": "Tesla"
+  },
+  {
+    "id": 40,
+    "name": "Toyota"
+  },
+  {
+    "id": 41,
+    "name": "Volkswagen"
+  },
+  {
+    "id": 42,
+    "name": "Volvo"
+  }
+]
