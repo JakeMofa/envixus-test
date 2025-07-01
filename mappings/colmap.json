@@ -1,0 +1,64 @@
+{
+  "vehicle_flat_staging": {
+  "vin": "VIN",
+  "make": "Make Name",
+  "model": "Model Name",
+  "trim_name": "Trim Name",
+  "trim_description": "Trim Description",
+
+  "manufacturing_year": "Manufacturing Year",
+  "listing_year": "Listing Year",
+
+  "condition_type": "Condition",
+  "base_msrp": "MSRP",
+  "price": "Price",
+  "mileage": "Mileage",
+
+  "exterior_color": "Exterior Color",
+  "interior_color": "Interior Color",
+
+  "body_type": "Body Type",
+  "doors": "Number of Doors",
+  "seats": "Number of Seats",
+
+  "engine_type": "Engine Type",
+  "engine_cylinders": "Cylinders",
+  "engine_size_l": "Engine Size (L)",
+  "horsepower": "Horsepower",
+  "torque_ft_lbs": "Torque (Ft-Lbs)",
+  "torque_rpm": "Torque (RPM)",
+
+  "transmission": "Transmission Type",
+  "drive_train": "Drive Train",
+  "fuel_type": "Fuel Type",
+  "fuel_tank_capacity_gal": "Fuel Tank Capacity",
+
+  "epa_combined_mpg": "EPA Combined MPG",
+  "epa_city_mpg": "EPA City MPG",
+  "epa_highway_mpg": "EPA Highway MPG",
+  "epa_electric_range_mi": "EPA Electric Range (Mi)",
+  "epa_charge_time_hr": "EPA Time to Charge (Hr)",
+  "battery_capacity_kwh": "Battery Capacity (kWh)",
+
+  "region": "Region",
+  "state_name": "State",
+  "city": "City",
+  "county": "County",
+  "zipcode": "Zip Code",
+
+  "accidents_reported": "Accidents Reported",
+  "owner_count": "Owner Count",
+  "rental_use": "Rental Use",
+
+  "date_captured": "Date Captured",
+  "date_added": "Date Added",
+  "date_modified": "Date Modified",
+  "days_on_market": "Days on Market",
+
+  "source_name": "Source Name",
+  "source_url": "Source URL",
+  "image_url": "Image URL",
+  "source_id": "Source ID"
+  }
+}
+
