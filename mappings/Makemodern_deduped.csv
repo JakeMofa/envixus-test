@@ -1,0 +1,518 @@
+name,code
+AC,AC
+AM General,AL
+ATK,AK
+Abarth,AH
+Acura,AA
+Advance Mixer,AR
+Airstream,AM
+Alexander Dennis,AS
+Alfa Romeo,AO
+Allard,AD
+Allstate,AE
+Alpine,ALP
+Alvis,ALV
+American Austin,AN
+American Bantam,AME
+American Coach,CA
+American IronHorse,ER
+American LaFrance,AF
+American Motors,IC
+Amphicar,AMP
+Apollo,AP
+Apperson,APP
+Aprilia,APR
+Arctic Cat,AT
+Argo,ARG
+Armstrong-Siddeley,AY
+Arnolt-Bristol,ARN
+Arnolt-MG,AG
+Aston Martin,AST
+Astra,RA
+Asuna,ASU
+Atul,ATU
+Auburn,AU
+Audi,AI
+Austin,AUS
+Austin Healey,EA
+Autocar,AUT
+Autocar LLC.,LC
+Avanti,AV
+BAIC,BC
+BMW,BW
+BYD,BD
+Bajaj,BJ
+Benelli,BI
+Bentley,BY
+Bering,BG
+Berkeley,BE
+Bertone,BER
+Beta,BA
+Biddle,BID
+Big Bear Choppers,BS
+Big Dog,BIG
+Bimota,BIM
+Bizzarrini,BIZ
+Blackhawk,BK
+Blue Bird,BL
+Bobcat,BT
+Bombardier,BR
+Bond,BO
+Borgward,BOR
+Boss,BOS
+Bricklin,BN
+Brightdrop,BP
+Bristol,BRI
+Buell,BU
+Bugatti,BUG
+Buick,BUI
+Bultaco,BUL
+Bus & Coach Intl (BCI),BUS
+CFMOTO,CO
+Cadillac,CC
+Cagiva,CAG
+Can-Am,CM
+Cannondale,CE
+Capacity Of Texas,CS
+Carabela,CAR
+Carado,DO
+Case,CAS
+Case IH,CH
+Caterpillar,CR
+Chance Coach Transit Bus,CHA
+Chandler,DL
+Changan,CN
+Chanje,HA
+Checker,CHE
+Chevrolet,CT
+Chinook Motor Coach,CHI
+Chirey,CY
+Chrysler,CHR
+Cisitalia,CI
+Citroen,CIT
+Cleveland,CD
+Coach House,COA
+Coachmen,EN
+Cobra,COB
+Coda,COD
+Cole,COL
+Continental,CL
+Cord,COR
+Country Coach,COU
+Crane Carrier,CRA
+Crosley,CRO
+Crown Coach,NC
+Cub Cadet,CU
+Cunningham,CUN
+Cupra,CUP
+DAF,DF
+DKW,DW
+Daewoo,DA
+Daihatsu,DU
+Daimler,DR
+Damon,DN
+Darrin,DAR
+Datsun,DAT
+Davis,DS
+Dazon,DAZ
+De Vaux,DX
+DeLorean,DE
+DeSoto,DES
+DeTomaso,DET
+Delage,DEL
+Delahaye,EL
+Dellow,LL
+Dennis Eagle,DEN
+Denzel,NZ
+Deutsch-Bonnet,DT
+Diamond Reo,DI
+Diana,DIA
+Dina,DIN
+Dina Transit Bus,IN
+Dinamo,MO
+Dodge,DOD
+Doretti,DOR
+Du Pont,DUP
+Dual-Ghia,DUA
+Ducati,DUC
+Duesenberg,DG
+Duplex,EX
+Durant,DUR
+Duryea,RY
+Dynamax Corp,DP
+E-TON,ET
+Eagle,EE
+Eagle Transit Buses,ES
+EarthRoamer,EAR
+East to West,EAS
+Econoline,EC
+Edsel,ED
+El Dorado,EO
+Elcar,ELC
+Elva,ELV
+Emergency One,EM
+Entegra Coach,EH
+Erik Buell Racing,EG
+Erskine,ERS
+Essex,ESS
+Evergreen RV,EV
+Evobus,EVO
+Excalibur,EXC
+Excelsior-Henderson,HE
+FAW,FW
+FWD,FD
+FWD Corporation,FN
+Facel Vega,FA
+Fairthorpe,FE
+Falcon Knight,FT
+Fargo,FO
+Federal Motors,FS
+Ferrara,FER
+Ferrari,FI
+Fiat,FIA
+Fisker,FR
+Fleetwood,FL
+Flint,FLI
+Flxible Transit Bus,FLX
+Ford,FOR
+Forest River,IV
+Foretravel Motorhome,HO
+Foton,FOT
+Four Winds International,FOU
+Franklin,FRA
+Frazer,AZ
+Frazer Nash,FH
+Freightliner,FRE
+GEM,GM
+GMC,GC
+Gardner,GR
+Gas Gas,GS
+Genesis,GE
+Genesis Transit Buses,GEN
+Geo,GO
+Giant,GT
+Giant Motors,GI
+Gillig,GG
+Glas,GL
+Goggomobil,GOG
+Goliath,GH
+Gordon-Keeble,GOR
+Graham,GRA
+Graham-Paige,IG
+Grande West,EW
+GreenPower Motors,GRE
+Griffith,GRI
+Gulf Stream,GU
+HCS,HS
+HM,HM
+HRG,HG
+Hansa,HAN
+Harley Davidson,HN
+Haynes,HAY
+Healey,HY
+Hendrickson,HEN
+Henry J,HJ
+Hertz,HZ
+Hillman,HI
+Hino,HIN
+Hispano-Suiza,HIS
+Holiday Rambler,HR
+Honda,HON
+Hotchkiss,HOT
+Hudson,HU
+Humber,HUM
+Hummer,ME
+Hupmobile,HUP
+Husaberg,HUS
+Husqvarna,NA
+Hymer,HYM
+Hyosung,HYO
+Hyundai,HYU
+IC Corporation,ICC
+Indian,IND
+Indiana Phoenix,IX
+Infiniti,II
+International,IL
+Irizar,IR
+Islo,IO
+Iso,IS
+Isotta Fraschini,ISO
+Isuzu,IU
+Italika,IA
+Itasca,IT
+Iveco,IVE
+Izuka,IZ
+JAC,JC
+JMC,JM
+Jaguar,JR
+Jayco,JO
+Jeep,JP
+Jeffery,JY
+Jensen,JN
+Jewett,JT
+John Deere,JE
+Jordan,JOR
+Jowett,JOW
+KINGWAY MX,KX
+KTM,KM
+KYMCO,KO
+Kaiser,KR
+Kalmar,KA
+Karma,KAR
+Kasea,KAS
+Kawasaki,KI
+Keeway,KY
+Kenworth,KH
+Kia,KIA
+Kimble Chassis,KS
+Kissel,KL
+Kovatch,KOV
+Kubota,KU
+Kurtis,KUR
+LEM,LM
+LaSalle,LE
+Lada,LA
+Laforza,LAF
+Lagonda,LAG
+Lamborghini,LI
+Lanchester,LR
+Lancia,LAN
+Land Rover,ND
+Lea-Francis,LS
+Leisure Travel,LEI
+Les Autobus MCI,LES
+Lexington,LN
+Lexus,LEX
+Lincoln,LIN
+Lion,LIO
+Lloyd,LD
+Locomobile,LO
+Lodal,LOD
+Lordstown Motors,LOR
+Lotus,LOT
+Lucid,LU
+Lynx,LX
+MAN,MN
+MASA,MA
+MG,MG
+MV Agusta,MV
+Mack,MK
+Mahindra,MAH
+Maico,MAI
+Marathon,MAR
+Marauder,MR
+Marcos,MS
+Marmon,ON
+Marmon Herrington,NG
+Marquette,QU
+Maserati,MI
+Mastretta,MAS
+Matra,MAT
+Maxim,MM
+Maxwell,ML
+Maybach,MH
+Mazda,MAZ
+McLaren,MC
+Mercedes-Benz,MZ
+Mercury,MY
+Merkur,MER
+Messerschmitt,MT
+Metropolitan,MET
+Mini,MIN
+Mitsubishi,MIT
+Mitsubishi Fuso,FU
+Mobility Ventures,MOB
+Monaco Coach,MON
+Monteverdi,NT
+Moon,MOO
+Moretti,MOR
+Morgan,GA
+Morris,OR
+Moskvich,MOS
+Moto Guzzi,MOT
+Moto-Ski,OS
+Motor Coach Industries,IE
+NSU,NU
+Nardi,NI
+Nash,NH
+National RV,NV
+Neoplan,NN
+New Flyer,NR
+New Holland,NE
+Newmar,NEW
+Nexus,NS
+Nissan,NIS
+North American Bus Industries (NABI),NO
+Nova Bus Corporation,NOV
+ODES,OD
+Oakland,OA
+Oldsmobile,OE
+Omega,OM
+Ontario Bus,ONT
+Opel,OL
+Orion Bus,ORI
+Osca,OSC
+Oshkosh Motor Truck Co.,OO
+Ottawa,OT
+Oubike,OU
+Packard,PD
+Paige,PE
+Panhard,PA
+Panoramic RV,PV
+Panoz,PZ
+Panther,PR
+Peerless,PS
+Pegaso,PO
+Peterbilt,PT
+Peugeot,PEU
+Phoenix,PX
+Piaggio,PI
+Pierce Mfg. Inc.,PC
+Pierce-Arrow,PW
+Pleasure-Way,PY
+Plymouth,PH
+Polaris,POL
+Polestar,ST
+Polini,INI
+Pontiac,PON
+Porsche,POR
+Prevost,PRE
+Proterra,PRO
+Qvale,QE
+R-Vision,RN
+Ram,RM
+Rambler,RR
+Redcat Motors,RS
+Redline,RE
+Regency RV,RV
+Reliant,RT
+Renault,REN
+Renegade,ADE
+Reo,RO
+Rickenbacker,RI
+Riley,RIL
+Rivian,RIV
+Roadmaster Rail,RL
+Roadtrek,RK
+Roamer,ROA
+Rockne,ROC
+Rollin,ROL
+Rolls Royce,OY
+Roosevelt,ROO
+Rosenbauer America,ROS
+Rover,ROV
+Royal Enfield,RD
+Rupp,RP
+SDG,SG
+SRT,SR
+SUNL,SL
+SYM,SM
+Saab,SB
+Sabra,SA
+Safari,SI
+Saleen,SN
+Salmson,SAL
+Saturn,SAT
+Savage,SE
+Scania,SC
+Scion,SCI
+Scorpion,SCO
+Scripps Booth,SH
+Sea-Doo,SO
+Seagrave Fire Apparatus,SS
+Seat,SEA
+Shelby,SY
+Sherco,SHE
+Sheridan,ID
+Siata,SIA
+Simca,SIM
+Singer,SIN
+Ski-Doo,SK
+Skoda,SKO
+Smart,SMA
+Sno-Jet,SNO
+Spartan Motors,SP
+Spyker,SPY
+SsangYong,SSA
+Standard,SD
+Stanguellini,STA
+Star,TA
+Stearns Knight,STE
+Sterling,TE
+Sterling Truck,CK
+Stevens-Duryea,UR
+Stewart & Stevenson,TS
+Storyteller Overland,STO
+Studebaker,STU
+Stutz,SZ
+Subaru,SU
+Sunbeam,SUN
+Sutphen Corp.,SUT
+Suzuki,SUZ
+Swallow,SW
+TGB,TB
+TM,TM
+TVR,TR
+TVS,TV
+Talbot-Lago,TO
+Tatra,TAT
+Temsa Bus,TEM
+Terex / Terex Advance,TER
+Tesla,TES
+Textron,TN
+Think,TK
+Thomas,TH
+Thor Motor Coach,THO
+Tiffin,TI
+TigerShark,TIG
+Torino,TOR
+Toyopet,TT
+Toyota,TOY
+Tracker,TRA
+Transportation Mfg Corp.,TP
+Treck,TRE
+Triumph,TRI
+Tucker,TU
+Turner,TUR
+U/K,UK
+UAZ,UZ
+UD,UD
+Unimog,UG
+Utilimaster,UT
+VOR,VR
+VPG,VG
+VUHL,VL
+Vam,VM
+Van Hool,VA
+Vauxhall,VAU
+Velie,VE
+Veloci,VI
+Vento,VO
+Vespa,VES
+Victory,VY
+Viking,VIK
+VinFast,VT
+Volkswagen,VN
+Volvo,VOL
+Wartburg,WG
+Westcott,WT
+Western RV,WV
+Western Star,WR
+Wet Jet,WE
+Whippet,WH
+White,WHI
+White/GMC,WC
+Willys,WS
+Windsor,WI
+Winnebago,WO
+Wolseley,WY
+Workhorse,WOR
+Workhorse Custom Chassis,US
+Xos,XS
+Yamaha,YA
+Yellow Cab,YB
+Yugo,YO
+ZERO,ZO
+Zacua,ZA
+Zeligson,ZN
+Zundapp,ZP
