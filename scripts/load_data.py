@@ -4,6 +4,8 @@ from sqlalchemy import create_engine, Table, MetaData
 from sqlalchemy.orm import sessionmaker
 from db_config import DB_CONFIG, TEMP_DB_NAME, create_temp_database, drop_temp_database, create_temp_db_connection_pool
 
+
+## not Workong new db schema
 def load_column_mapping(json_file="Colmappinng.json"):
     with open(json_file, "r") as file:
         return json.load(file)
