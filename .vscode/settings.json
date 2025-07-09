@@ -10,5 +10,8 @@
             "database": "envixus",
             "username": "postgres"
         }
+    ],
+    "python.analysis.extraPaths": [
+        "./utils"
     ]
 }

@@ -1,0 +1,1090 @@
+
+{
+  "directAds": [
+    {
+      "url": "https://www.cargurus.com/Cars/Link?url=https%3A%2F%2Fgoto.capitalone.com%2Fc%2F1306464%2F520447%2F8420%3Fp.vin%3D2G1FK1EJ4B9212428&hmac=0C483596DEB25F4C89A059436041A399942C1323",
+      "adCode": "captitalone",
+      "message": "Pre-qualify for financing with no impact to your credit score.",
+      "advertiserName": "CAPITAL_ONE"
+    }
+  ],
+  "listing": {
+    "id": 420875135,
+    "inclusionType": "DEFAULT",
+    "status": "OPEN",
+    "listingTitle": "2011 Chevrolet Camaro 2SS Coupe RWD - $19,994",
+    "listingTitleOnly": "2011 Chevrolet Camaro 2SS Coupe RWD",
+    "vehicleEntityName": "2011 Chevrolet Camaro",
+    "price": 19994.0,
+    "priceString": "$19,994",
+    "expectedPrice": 21308,
+    "dealScore": 0.7118618924843605,
+    "msrp": 19995.0,
+    "mileage": 58213,
+    "mileageString": "58,213",
+    "vin": "2G1FK1EJ4B9212428",
+    "description": "Heated Leather Seats, Sunroof, Onboard Communications System, Satellite Radio, Premium Sound System, Alloy Wheels, INTERIOR ACCENT TRIM PACKAGE, AUDIO SYSTEM, AM/FM STEREO WITH CD-RO... TRANSMISSION, 6-SPEED AUTOMATIC, RS PACKAGE [!@@ NL @@!][!@@ NL @@!]KEY FEATURES INCLUDE[!@@ NL @@!]Heated Driver Seat, Premium Sound System, Satellite Radio, Onboard Communications System, Chrome Wheels Chevrolet 2SS with Inferno Orange Metallic exterior and Inferno Orange interior features a 8 Cylinder Engine with 400 HP at 5900 RPM*. [!@@ NL @@!][!@@ NL @@!]OPTION PACKAGES[!@@ NL @@!]RS PACKAGE includes (Q9K) 20 x 8 front and 20 x 9 rear flangeless, painted aluminum wheels with Midnight Silver finish, (BD8) body-color roof ditch molding, (T4F) high intensity discharge headlamps and RS unique tail lamps, TRANSMISSION, 6-SPEED AUTOMATIC includes TAPshift manual shift controls on steering wheel, SUNROOF, POWER WITH EXPRESS OPEN AND VENTING, INTERIOR ACCENT TRIM PACKAGE includes Black interior with Inferno Orange front leather-appointed seats, accent stitching on steering wheel, shift knob, door armrest, center console and seats. Inferno Orange door trim and instrument panel applique (Includes SS embroidery.), REMOTE VEHICLE STARTER SYSTEM includes Remote Keyless Entry, ENGINE, 6.2L V8 SFI (400 hp [298.3 kW] @ 5900 rpm, 410 lb-ft of torque [553.5 N-m] @ 4300 rpm), AUDIO SYSTEM, AM/FM STEREO WITH CD-ROM AND MP3 PLAYBACK music navigator, Graphic Information Display (GID) and auxiliary input jack, includes outside temperature display (STD). [!@@ NL @@!][!@@ NL @@!]EXPERTS ARE SAYING[!@@ NL @@!]CarAndDriver.coms review says Classic styling made modern, excellent chassis, brakes are up to the task of countering the V-8s 426 horsepower, and approachable prices.. [!@@ NL @@!][!@@ NL @@!]BUY FROM AN AWARD WINNING DEALER[!@@ NL @@!]We Simply Do It Better At Meador [!@@ NL @@!][!@@ NL @@!]Horsepower calculations based on trim engine configuration. Please confirm the accuracy of the included equipment by calling us prior to purchase. [!@@ NL @@!][!@@Additional Info@@!]4-Wheel Disc Brakes,6-Speed A/T,8 Cylinder Engine,A/C,A/T,ABS,Adjustable Steering Wheel,AM/FM Stereo,Auto-Dimming Rearview Mirror,Automatic Headlights,Auxiliary Audio Input,Bluetooth,Bucket Seats,CD Player,Chrome Wheels,Cruise Control,Daytime Running Lights,Driver Air Bag,Driver Vanity Mirror,Emergency Trunk Release,Engine Immobilizer,Floor Mats,Fog Lamps,Front Head Air Bag,Front Reading Lamps,Front Side Air Bag,Gasoline Fuel,Heated Mirrors,Heated Seats,HID headlights,Intermittent Wipers,Keyless Entry,Leather Seats,Leather Steering Wheel,Locking/Limited Slip Differential,MP3 Player,Pass-Through Rear Seat,Passenger Air Bag,Passenger Vanity Mirror,Power Door Locks,Power Driver Seat,Power Mirror(s),Power Outlet,Power Steering,Power Windows,Premium Sound,Rear Defrost,Rear Head Air Bag,Rear Parking Aid,Rear Spoiler,Rear Wheel Drive,Remote Start,Remote Trunk Release,Satellite Radio,Stability Control,Steering Wheel Audio Controls,Sunroof / Moonroof,Sunroof / Moonroof,Telematics,Tire Pressure Monitor,Tires - Front Performance,Tires - Rear Performance,Traction Control,Universal Garage Door Opener",
+    "vehicleCondition": "USED",
+    "unitMileage": {
+      "value": 58213.0,
+      "unit": "MILES"
+    },
+    "stockNumber": "10872TV",
+    "options": [
+      "Leather Seats",
+      "Sunroof/Moonroof",
+      "Navigation System",
+      "RS Package",
+      "Alloy Wheels",
+      "Audio Package",
+      "Bluetooth",
+      "Remote Start",
+      "Trim Package",
+      "Heated Seats"
+    ],
+    "dealRatingKey": "GOOD_PRICE",
+    "localizedTransmission": "6-Speed Automatic",
+    "localizedExteriorColor": "Inferno Orange Metallic",
+    "localizedInteriorColor": "Inferno Orange",
+    "localizedFuelEconomy": [
+      "16 MPG City",
+      "25 MPG Highway",
+      "20 MPG Combined"
+    ],
+    "localizedDriveTrain": "Rear-Wheel Drive",
+    "localizedEngineDisplayName": "400 hp 6.2L V8",
+    "localizedFuelType": "Gasoline",
+    "fuelTankCapacity": {
+      "value": 19.0,
+      "unit": "GALLONS"
+    },
+    "distance": "0 mi",
+    "rawDistance": "0.0_MILES",
+    "roundedDistance": 0,
+    "priceDifferential": 1314.0,
+    "pictures": [
+      {
+        "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-6987109683767324365-1024x768.jpeg",
+        "thumbnailUrl": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-6987109683767324365-67x50.jpeg",
+        "height": 768,
+        "width": 1024,
+        "scaledPictures": {
+          "SIZE_1024x768": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-6987109683767324365-1024x768.jpeg",
+            "width": 768,
+            "height": 1024
+          },
+          "SIZE_296x222": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-6987109683767324365-296x222.jpeg",
+            "width": 222,
+            "height": 296
+          },
+          "SIZE_67x50": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-6987109683767324365-67x50.jpeg",
+            "width": 50,
+            "height": 66
+          }
+        }
+      },
+      {
+        "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-1524562896869861732-1024x768.jpeg",
+        "thumbnailUrl": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-1524562896869861732-67x50.jpeg",
+        "height": 768,
+        "width": 1024,
+        "scaledPictures": {
+          "SIZE_1024x768": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-1524562896869861732-1024x768.jpeg",
+            "width": 768,
+            "height": 1024
+          },
+          "SIZE_296x222": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-1524562896869861732-296x222.jpeg",
+            "width": 222,
+            "height": 296
+          },
+          "SIZE_67x50": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-1524562896869861732-67x50.jpeg",
+            "width": 50,
+            "height": 66
+          }
+        }
+      },
+      {
+        "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-4442103854967274120-1024x768.jpeg",
+        "thumbnailUrl": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-4442103854967274120-67x50.jpeg",
+        "height": 768,
+        "width": 1024,
+        "scaledPictures": {
+          "SIZE_1024x768": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-4442103854967274120-1024x768.jpeg",
+            "width": 768,
+            "height": 1024
+          },
+          "SIZE_296x222": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-4442103854967274120-296x222.jpeg",
+            "width": 222,
+            "height": 296
+          },
+          "SIZE_67x50": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-4442103854967274120-67x50.jpeg",
+            "width": 50,
+            "height": 66
+          }
+        }
+      },
+      {
+        "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-933929249765404473-1024x768.jpeg",
+        "thumbnailUrl": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-933929249765404473-67x50.jpeg",
+        "height": 768,
+        "width": 1024,
+        "scaledPictures": {
+          "SIZE_1024x768": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-933929249765404473-1024x768.jpeg",
+            "width": 768,
+            "height": 1024
+          },
+          "SIZE_296x222": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-933929249765404473-296x222.jpeg",
+            "width": 222,
+            "height": 296
+          },
+          "SIZE_67x50": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-933929249765404473-67x50.jpeg",
+            "width": 50,
+            "height": 66
+          }
+        }
+      },
+      {
+        "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-3327135052481143039-1024x768.jpeg",
+        "thumbnailUrl": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-3327135052481143039-67x50.jpeg",
+        "height": 768,
+        "width": 1024,
+        "scaledPictures": {
+          "SIZE_1024x768": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-3327135052481143039-1024x768.jpeg",
+            "width": 768,
+            "height": 1024
+          },
+          "SIZE_296x222": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-3327135052481143039-296x222.jpeg",
+            "width": 222,
+            "height": 296
+          },
+          "SIZE_67x50": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-3327135052481143039-67x50.jpeg",
+            "width": 50,
+            "height": 66
+          }
+        }
+      },
+      {
+        "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-1491282112975162310-1024x768.jpeg",
+        "thumbnailUrl": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-1491282112975162310-67x50.jpeg",
+        "height": 768,
+        "width": 1024,
+        "scaledPictures": {
+          "SIZE_1024x768": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-1491282112975162310-1024x768.jpeg",
+            "width": 768,
+            "height": 1024
+          },
+          "SIZE_296x222": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-1491282112975162310-296x222.jpeg",
+            "width": 222,
+            "height": 296
+          },
+          "SIZE_67x50": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-1491282112975162310-67x50.jpeg",
+            "width": 50,
+            "height": 66
+          }
+        }
+      },
+      {
+        "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-3288583055100909944-1024x768.jpeg",
+        "thumbnailUrl": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-3288583055100909944-67x50.jpeg",
+        "height": 768,
+        "width": 1024,
+        "scaledPictures": {
+          "SIZE_1024x768": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-3288583055100909944-1024x768.jpeg",
+            "width": 768,
+            "height": 1024
+          },
+          "SIZE_296x222": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-3288583055100909944-296x222.jpeg",
+            "width": 222,
+            "height": 296
+          },
+          "SIZE_67x50": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-3288583055100909944-67x50.jpeg",
+            "width": 50,
+            "height": 66
+          }
+        }
+      },
+      {
+        "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-1959673619959216928-1024x768.jpeg",
+        "thumbnailUrl": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-1959673619959216928-67x50.jpeg",
+        "height": 768,
+        "width": 1024,
+        "scaledPictures": {
+          "SIZE_1024x768": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-1959673619959216928-1024x768.jpeg",
+            "width": 768,
+            "height": 1024
+          },
+          "SIZE_296x222": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-1959673619959216928-296x222.jpeg",
+            "width": 222,
+            "height": 296
+          },
+          "SIZE_67x50": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-1959673619959216928-67x50.jpeg",
+            "width": 50,
+            "height": 66
+          }
+        }
+      },
+      {
+        "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-6721151960756027679-1024x768.jpeg",
+        "thumbnailUrl": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-6721151960756027679-67x50.jpeg",
+        "height": 768,
+        "width": 1024,
+        "scaledPictures": {
+          "SIZE_1024x768": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-6721151960756027679-1024x768.jpeg",
+            "width": 768,
+            "height": 1024
+          },
+          "SIZE_296x222": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-6721151960756027679-296x222.jpeg",
+            "width": 222,
+            "height": 296
+          },
+          "SIZE_67x50": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-6721151960756027679-67x50.jpeg",
+            "width": 50,
+            "height": 66
+          }
+        }
+      },
+      {
+        "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-5266672296141829309-1024x768.jpeg",
+        "thumbnailUrl": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-5266672296141829309-67x50.jpeg",
+        "height": 768,
+        "width": 1024,
+        "scaledPictures": {
+          "SIZE_1024x768": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-5266672296141829309-1024x768.jpeg",
+            "width": 768,
+            "height": 1024
+          },
+          "SIZE_296x222": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-5266672296141829309-296x222.jpeg",
+            "width": 222,
+            "height": 296
+          },
+          "SIZE_67x50": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-5266672296141829309-67x50.jpeg",
+            "width": 50,
+            "height": 66
+          }
+        }
+      },
+      {
+        "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-158429595274210033-1024x768.jpeg",
+        "thumbnailUrl": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-158429595274210033-67x50.jpeg",
+        "height": 768,
+        "width": 1024,
+        "scaledPictures": {
+          "SIZE_1024x768": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-158429595274210033-1024x768.jpeg",
+            "width": 768,
+            "height": 1024
+          },
+          "SIZE_296x222": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-158429595274210033-296x222.jpeg",
+            "width": 222,
+            "height": 296
+          },
+          "SIZE_67x50": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-158429595274210033-67x50.jpeg",
+            "width": 50,
+            "height": 66
+          }
+        }
+      },
+      {
+        "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-3018330614540675632-1024x768.jpeg",
+        "thumbnailUrl": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-3018330614540675632-67x50.jpeg",
+        "height": 768,
+        "width": 1024,
+        "scaledPictures": {
+          "SIZE_1024x768": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-3018330614540675632-1024x768.jpeg",
+            "width": 768,
+            "height": 1024
+          },
+          "SIZE_296x222": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-3018330614540675632-296x222.jpeg",
+            "width": 222,
+            "height": 296
+          },
+          "SIZE_67x50": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-3018330614540675632-67x50.jpeg",
+            "width": 50,
+            "height": 66
+          }
+        }
+      },
+      {
+        "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-6877382293840179043-1024x768.jpeg",
+        "thumbnailUrl": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-6877382293840179043-67x50.jpeg",
+        "height": 768,
+        "width": 1024,
+        "scaledPictures": {
+          "SIZE_1024x768": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-6877382293840179043-1024x768.jpeg",
+            "width": 768,
+            "height": 1024
+          },
+          "SIZE_296x222": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-6877382293840179043-296x222.jpeg",
+            "width": 222,
+            "height": 296
+          },
+          "SIZE_67x50": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-6877382293840179043-67x50.jpeg",
+            "width": 50,
+            "height": 66
+          }
+        }
+      },
+      {
+        "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-5038474248966632656-1024x768.jpeg",
+        "thumbnailUrl": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-5038474248966632656-67x50.jpeg",
+        "height": 768,
+        "width": 1024,
+        "scaledPictures": {
+          "SIZE_1024x768": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-5038474248966632656-1024x768.jpeg",
+            "width": 768,
+            "height": 1024
+          },
+          "SIZE_296x222": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-5038474248966632656-296x222.jpeg",
+            "width": 222,
+            "height": 296
+          },
+          "SIZE_67x50": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-5038474248966632656-67x50.jpeg",
+            "width": 50,
+            "height": 66
+          }
+        }
+      },
+      {
+        "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-2798889927897084457-1024x768.jpeg",
+        "thumbnailUrl": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-2798889927897084457-67x50.jpeg",
+        "height": 768,
+        "width": 1024,
+        "scaledPictures": {
+          "SIZE_1024x768": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-2798889927897084457-1024x768.jpeg",
+            "width": 768,
+            "height": 1024
+          },
+          "SIZE_296x222": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-2798889927897084457-296x222.jpeg",
+            "width": 222,
+            "height": 296
+          },
+          "SIZE_67x50": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-2798889927897084457-67x50.jpeg",
+            "width": 50,
+            "height": 66
+          }
+        }
+      },
+      {
+        "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-7254896062186809768-1024x768.jpeg",
+        "thumbnailUrl": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-7254896062186809768-67x50.jpeg",
+        "height": 768,
+        "width": 1024,
+        "scaledPictures": {
+          "SIZE_1024x768": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-7254896062186809768-1024x768.jpeg",
+            "width": 768,
+            "height": 1024
+          },
+          "SIZE_296x222": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-7254896062186809768-296x222.jpeg",
+            "width": 222,
+            "height": 296
+          },
+          "SIZE_67x50": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-7254896062186809768-67x50.jpeg",
+            "width": 50,
+            "height": 66
+          }
+        }
+      },
+      {
+        "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-2629529483536236973-1024x768.jpeg",
+        "thumbnailUrl": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-2629529483536236973-67x50.jpeg",
+        "height": 768,
+        "width": 1024,
+        "scaledPictures": {
+          "SIZE_1024x768": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-2629529483536236973-1024x768.jpeg",
+            "width": 768,
+            "height": 1024
+          },
+          "SIZE_296x222": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-2629529483536236973-296x222.jpeg",
+            "width": 222,
+            "height": 296
+          },
+          "SIZE_67x50": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-2629529483536236973-67x50.jpeg",
+            "width": 50,
+            "height": 66
+          }
+        }
+      },
+      {
+        "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-526644674576113654-1024x768.jpeg",
+        "thumbnailUrl": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-526644674576113654-67x50.jpeg",
+        "height": 768,
+        "width": 1024,
+        "scaledPictures": {
+          "SIZE_1024x768": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-526644674576113654-1024x768.jpeg",
+            "width": 768,
+            "height": 1024
+          },
+          "SIZE_296x222": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-526644674576113654-296x222.jpeg",
+            "width": 222,
+            "height": 296
+          },
+          "SIZE_67x50": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-526644674576113654-67x50.jpeg",
+            "width": 50,
+            "height": 66
+          }
+        }
+      },
+      {
+        "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-142704740805380763-1024x768.jpeg",
+        "thumbnailUrl": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-142704740805380763-67x50.jpeg",
+        "height": 768,
+        "width": 1024,
+        "scaledPictures": {
+          "SIZE_1024x768": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-142704740805380763-1024x768.jpeg",
+            "width": 768,
+            "height": 1024
+          },
+          "SIZE_296x222": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-142704740805380763-296x222.jpeg",
+            "width": 222,
+            "height": 296
+          },
+          "SIZE_67x50": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-142704740805380763-67x50.jpeg",
+            "width": 50,
+            "height": 66
+          }
+        }
+      },
+      {
+        "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-8210876965651299928-1024x768.jpeg",
+        "thumbnailUrl": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-8210876965651299928-67x50.jpeg",
+        "height": 768,
+        "width": 1024,
+        "scaledPictures": {
+          "SIZE_1024x768": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-8210876965651299928-1024x768.jpeg",
+            "width": 768,
+            "height": 1024
+          },
+          "SIZE_296x222": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-8210876965651299928-296x222.jpeg",
+            "width": 222,
+            "height": 296
+          },
+          "SIZE_67x50": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-8210876965651299928-67x50.jpeg",
+            "width": 50,
+            "height": 66
+          }
+        }
+      },
+      {
+        "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-3216525403838572289-1024x768.jpeg",
+        "thumbnailUrl": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-3216525403838572289-67x50.jpeg",
+        "height": 768,
+        "width": 1024,
+        "scaledPictures": {
+          "SIZE_1024x768": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-3216525403838572289-1024x768.jpeg",
+            "width": 768,
+            "height": 1024
+          },
+          "SIZE_296x222": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-3216525403838572289-296x222.jpeg",
+            "width": 222,
+            "height": 296
+          },
+          "SIZE_67x50": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-3216525403838572289-67x50.jpeg",
+            "width": 50,
+            "height": 66
+          }
+        }
+      },
+      {
+        "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-8396436674927095465-1024x768.jpeg",
+        "thumbnailUrl": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-8396436674927095465-67x50.jpeg",
+        "height": 768,
+        "width": 1024,
+        "scaledPictures": {
+          "SIZE_1024x768": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-8396436674927095465-1024x768.jpeg",
+            "width": 768,
+            "height": 1024
+          },
+          "SIZE_296x222": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-8396436674927095465-296x222.jpeg",
+            "width": 222,
+            "height": 296
+          },
+          "SIZE_67x50": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-8396436674927095465-67x50.jpeg",
+            "width": 50,
+            "height": 66
+          }
+        }
+      },
+      {
+        "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-4840747825302003077-1024x768.jpeg",
+        "thumbnailUrl": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-4840747825302003077-67x50.jpeg",
+        "height": 768,
+        "width": 1024,
+        "scaledPictures": {
+          "SIZE_1024x768": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-4840747825302003077-1024x768.jpeg",
+            "width": 768,
+            "height": 1024
+          },
+          "SIZE_296x222": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-4840747825302003077-296x222.jpeg",
+            "width": 222,
+            "height": 296
+          },
+          "SIZE_67x50": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-4840747825302003077-67x50.jpeg",
+            "width": 50,
+            "height": 66
+          }
+        }
+      },
+      {
+        "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-3731697702720123501-1024x768.jpeg",
+        "thumbnailUrl": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-3731697702720123501-67x50.jpeg",
+        "height": 768,
+        "width": 1024,
+        "scaledPictures": {
+          "SIZE_1024x768": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-3731697702720123501-1024x768.jpeg",
+            "width": 768,
+            "height": 1024
+          },
+          "SIZE_296x222": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-3731697702720123501-296x222.jpeg",
+            "width": 222,
+            "height": 296
+          },
+          "SIZE_67x50": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-3731697702720123501-67x50.jpeg",
+            "width": 50,
+            "height": 66
+          }
+        }
+      },
+      {
+        "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-3527302555569212752-1024x768.jpeg",
+        "thumbnailUrl": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-3527302555569212752-67x50.jpeg",
+        "height": 768,
+        "width": 1024,
+        "scaledPictures": {
+          "SIZE_1024x768": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-3527302555569212752-1024x768.jpeg",
+            "width": 768,
+            "height": 1024
+          },
+          "SIZE_296x222": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-3527302555569212752-296x222.jpeg",
+            "width": 222,
+            "height": 296
+          },
+          "SIZE_67x50": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-3527302555569212752-67x50.jpeg",
+            "width": 50,
+            "height": 66
+          }
+        }
+      },
+      {
+        "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-6798743705657299557-1024x768.jpeg",
+        "thumbnailUrl": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-6798743705657299557-67x50.jpeg",
+        "height": 768,
+        "width": 1024,
+        "scaledPictures": {
+          "SIZE_1024x768": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-6798743705657299557-1024x768.jpeg",
+            "width": 768,
+            "height": 1024
+          },
+          "SIZE_296x222": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-6798743705657299557-296x222.jpeg",
+            "width": 222,
+            "height": 296
+          },
+          "SIZE_67x50": {
+            "url": "https://static.cargurus.com/images/forsale/2025/07/04/14/05/2011_chevrolet_camaro-pic-6798743705657299557-67x50.jpeg",
+            "width": 50,
+            "height": 66
+          }
+        }
+      }
+    ],
+    "listingHistory": {
+      "daysAtDealer": 4,
+      "daysOnCarGurus": 4,
+      "priceHistory": [
+        {
+          "price": 19995.0,
+          "timestamp": 1751946443000
+        }
+      ]
+    },
+    "vehicleHistory": {
+      "hasVehicleHistoryReport": true,
+      "hasThirdPartyVehicleDamageData": true,
+      "reportDate": 1751601869000,
+      "accidentCount": 1,
+      "ownerCount": 2,
+      "hasVehicleHistory": true
+    },
+    "hotSeller": true,
+    "savedCount": 0,
+    "entityId": "t37273",
+    "powerTypeKey": "powertype.gasoline",
+    "carId": 22196,
+    "postalCode": "76140",
+    "ncapSafetyRatings": [
+      {
+        "rolloverRating": "5"
+      }
+    ],
+    "listingCondition": "NORMAL",
+    "facebookShareUrl": "/Cars/Link?url=https%3A%2F%2Fwww.facebook.com%2Fsharer%2Fsharer.php%3Fu%3Dhttps%3A%2F%2Fwww.cargurus.com%2FCars%2Finventorylisting%2Fog%2F420875135&hmac=F93954A81D6CB0061155ECB2E4E1548C37326608",
+    "listingPartners": "FirstLook-MEADORCD01-10872TV,",
+    "activeListingPartnerId": 58,
+    "listingTier": "RETAIL",
+    "optionCount": 10,
+    "makeName": "Chevrolet",
+    "modelName": "Camaro",
+    "makeId": "m1",
+    "modelId": "d606",
+    "year": 2011,
+    "trimName": "2SS Coupe RWD",
+    "bodyTypeGroupId": "bg0",
+    "vehicleLeagues": [
+      "vehicle.league.perf_coupe"
+    ],
+    "cityFuelEconomy": {
+      "value": 16.0,
+      "unit": "MPG"
+    },
+    "combinedFuelEconomy": {
+      "value": 20.05,
+      "unit": "MPG"
+    },
+    "highwayFuelEconomy": {
+      "value": 25.0,
+      "unit": "MPG"
+    },
+    "evBatteryDto": {},
+    "financingEligibilityLookupWithTransactions": [
+      {
+        "financePartner": "CHASE",
+        "usesWizard": true
+      }
+    ],
+    "localizedNumberOfDoors": "2 doors",
+    "localizedCombinedFuelEconomy": "20 MPG",
+    "vehicleLegroom": [
+      "Front Legroom 42 in",
+      "Back Legroom 29 in"
+    ],
+    "localizedCargoVolume": "11 cu ft",
+    "buyingOption": "CONVERT",
+    "howToShop": "HOME_DROP_OFF",
+    "googleStaticMapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=640x480&zoom=14&scale=2&format=PNG&maptype=ROADMAP&key=AIzaSyDZpphLW-5RR1qdQi7I8Tf-6R0PPUZkSC0&markers=size%3Amid%7Ccolor%3A0xFF0000%7C9501+South+Fwy%2C+Ft+Worth+TX%2C+76140&",
+    "listingDetailStatsSectionDto": [
+      {
+        "categoryName": "Overview",
+        "optionsList": [],
+        "items": [
+          {
+            "key": "make",
+            "label": "Make:",
+            "displayValue": "Chevrolet"
+          },
+          {
+            "key": "model",
+            "label": "Model:",
+            "displayValue": "Camaro"
+          },
+          {
+            "key": "year",
+            "label": "Year:",
+            "displayValue": "2011",
+            "value": 2011
+          },
+          {
+            "key": "trim",
+            "label": "Trim:",
+            "displayValue": "2SS Coupe RWD"
+          },
+          {
+            "key": "bodyType",
+            "label": "Body type:",
+            "displayValue": "Coupe"
+          },
+          {
+            "key": "exteriorColor",
+            "label": "Exterior color:",
+            "displayValue": "Inferno Orange Metallic"
+          },
+          {
+            "key": "interiorColor",
+            "label": "Interior color:",
+            "displayValue": "Inferno Orange"
+          },
+          {
+            "key": "mileage",
+            "label": "Mileage:",
+            "displayValue": "58,213 mi"
+          },
+          {
+            "key": "condition",
+            "label": "Condition:",
+            "displayValue": "Used"
+          },
+          {
+            "key": "vin",
+            "label": "VIN:",
+            "displayValue": "2G1FK1EJ4B9212428",
+            "value": "2G1FK1EJ4B9212428"
+          },
+          {
+            "key": "stockNumber",
+            "label": "Stock number:",
+            "displayValue": "10872TV"
+          }
+        ]
+      },
+      {
+        "categoryName": "Fuel economy",
+        "optionsList": [],
+        "items": [
+          {
+            "key": "fuelTankSize",
+            "label": "Fuel tank size:",
+            "displayValue": "19 gal"
+          },
+          {
+            "key": "combinedFuelEconomy",
+            "label": "Combined gas mileage:",
+            "displayValue": "20 MPG"
+          },
+          {
+            "key": "cityFuelEconomy",
+            "label": "City gas mileage:",
+            "displayValue": "16 MPG"
+          },
+          {
+            "key": "highwayFuelEconomy",
+            "label": "Highway gas mileage:",
+            "displayValue": "25 MPG"
+          },
+          {
+            "key": "fuelType",
+            "label": "Fuel type:",
+            "displayValue": "Gasoline"
+          }
+        ]
+      },
+      {
+        "categoryName": "Performance",
+        "optionsList": [],
+        "items": [
+          {
+            "key": "transmission",
+            "label": "Transmission:",
+            "displayValue": "6-Speed Automatic"
+          },
+          {
+            "key": "drivetrain",
+            "label": "Drivetrain:",
+            "displayValue": "Rear-Wheel Drive"
+          },
+          {
+            "key": "engine",
+            "label": "Engine:",
+            "displayValue": "400 hp 6.2L V8"
+          },
+          {
+            "key": "horsepower",
+            "label": "Horsepower:",
+            "displayValue": "400 hp"
+          }
+        ]
+      },
+      {
+        "categoryName": "Safety",
+        "optionsList": [
+          {
+            "name": "ABS Brakes",
+            "description": null
+          },
+          {
+            "name": "Curtain Airbags",
+            "description": null
+          },
+          {
+            "name": "Driver Airbag",
+            "description": null
+          },
+          {
+            "name": "Front Side Airbags",
+            "description": null
+          },
+          {
+            "name": "Passenger Airbag",
+            "description": null
+          }
+        ],
+        "items": [
+          {
+            "key": "nhtsaRolloverRating",
+            "label": "NHTSA rollover rating:",
+            "displayValue": "5",
+            "value": 5
+          }
+        ]
+      },
+      {
+        "categoryName": "Measurements",
+        "optionsList": [],
+        "items": [
+          {
+            "key": "numberOfDoors",
+            "label": "Doors:",
+            "displayValue": "2 doors"
+          },
+          {
+            "key": "frontLegroom",
+            "label": "Front legroom:",
+            "displayValue": "42 in"
+          },
+          {
+            "key": "backLegroom",
+            "label": "Back legroom:",
+            "displayValue": "29 in"
+          },
+          {
+            "key": "cargoVolume",
+            "label": "Cargo volume:",
+            "displayValue": "11 cu ft"
+          }
+        ]
+      },
+      {
+        "categoryName": "Options",
+        "optionsList": [
+          {
+            "name": "Alloy Wheels",
+            "description": null
+          },
+          {
+            "name": "Audio Package",
+            "description": null
+          },
+          {
+            "name": "Bluetooth",
+            "description": null
+          },
+          {
+            "name": "Heated Seats",
+            "description": null
+          },
+          {
+            "name": "Leather Seats",
+            "description": null
+          },
+          {
+            "name": "Navigation System",
+            "description": null
+          },
+          {
+            "name": "RS Package",
+            "description": null
+          },
+          {
+            "name": "Remote Start",
+            "description": null
+          },
+          {
+            "name": "Sunroof/Moonroof",
+            "description": null
+          },
+          {
+            "name": "Trim Package",
+            "description": null
+          }
+        ],
+        "items": null
+      }
+    ]
+  },
+  "seller": {
+    "serviceProviderId": 309808,
+    "listingSellerId": 2100924,
+    "listingPartnerId": 58,
+    "rootServiceProviderId": 304025,
+    "sellerType": "DEALER",
+    "name": "Meador Chrysler Jeep Dodge Ram",
+    "address": {
+      "street": "9501 South Fwy",
+      "city": "Ft Worth",
+      "region": "TX",
+      "cityRegion": "Ft Worth, TX",
+      "postalCode": "76140",
+      "country": "US",
+      "geo": {
+        "latitude": 32.6166,
+        "longitude": -97.3212
+      },
+      "addressLines": [
+        "9501 South Fwy",
+        "Ft Worth, TX 76140"
+      ]
+    },
+    "supportsSms": true,
+    "supportsLiveChat": true,
+    "canHostCPOInventory": true,
+    "facebookUrl": "/Cars/Link?url=https%3A%2F%2Fwww.facebook.com%2FMeadorAuto%2Ftimeline%3Fref%3Dpage_internal&hmac=685A784A3BB5B3CD67A5B561348B3C2F6699903E",
+    "structuredDataFacebookUrl": "https://www.facebook.com/MeadorAuto/timeline?ref=page_internal",
+    "twitterUrl": "/Cars/Link?url=https%3A%2F%2Ftwitter.com%2FMeadorDCJ&hmac=F79D028AA22C2115D7A0F6C3A2740F1482181044",
+    "structuredDataTwitterUrl": "https://twitter.com/MeadorDCJ",
+    "hours": {
+      "dayOfWeek": "Tue",
+      "isOpenToday": true,
+      "openTime": "8:30 AM",
+      "closingTime": "8:00 PM",
+      "openNow": true,
+      "weeklySchedule": [
+        {
+          "dayOfWeek": "Sun",
+          "dayOfWeekLong": "Sunday",
+          "businessHoursAvailability": "Closed"
+        },
+        {
+          "dayOfWeek": "Mon",
+          "dayOfWeekLong": "Monday",
+          "openTime": "8:30 AM",
+          "closeTime": "8:00 PM"
+        },
+        {
+          "dayOfWeek": "Tue",
+          "dayOfWeekLong": "Tuesday",
+          "openTime": "8:30 AM",
+          "closeTime": "8:00 PM"
+        },
+        {
+          "dayOfWeek": "Wed",
+          "dayOfWeekLong": "Wednesday",
+          "openTime": "8:30 AM",
+          "closeTime": "8:00 PM"
+        },
+        {
+          "dayOfWeek": "Thu",
+          "dayOfWeekLong": "Thursday",
+          "openTime": "8:30 AM",
+          "closeTime": "8:00 PM"
+        },
+        {
+          "dayOfWeek": "Fri",
+          "dayOfWeekLong": "Friday",
+          "openTime": "8:30 AM",
+          "closeTime": "8:00 PM"
+        },
+        {
+          "dayOfWeek": "Sat",
+          "dayOfWeekLong": "Saturday",
+          "openTime": "8:30 AM",
+          "closeTime": "8:00 PM"
+        }
+      ]
+    },
+    "phoneNumber": "+1 682-582-8783",
+    "phoneNumberString": "(682) 582-8783",
+    "phoneNumberSMS": "+18883346545",
+    "inventoryUrl": "/Cars/m-Meador-Chrysler-Jeep-Dodge-Ram-sp309808",
+    "homePageUrl": "/Cars/m-Meador-Chrysler-Jeep-Dodge-Ram-sp309808",
+    "mapUrl": "/Cars/viewServiceProviderMap.action?serviceProvider=sp309808",
+    "websiteUrl": "/Cars/Link?url=http%3A%2F%2Fwww.meadorauto.com%3Futm_source%3Dcargurus.com%26utm_medium%3Dreferral%26utm_campaign%3Dcargurus_listings&hmac=951E7403DEA7DE1A342E19BEAE9A60092D37EAAF",
+    "structuredDataWebsiteUrl": "http://www.meadorauto.com?utm_source=cargurus.com&utm_medium=referral&utm_campaign=cargurus_listings",
+    "logoUrl": "https://static.cargurus.com/images/site/2018/04/12/19/54/meador_chrysler_jeep_dodge_ram-pic-7087440207577957367-200x200.jpeg",
+    "logoHeight": 126,
+    "logoWidth": 200,
+    "isFranchiseDealer": true,
+    "websiteDomain": "www.meadorauto.com",
+    "salesStatus": "PAYING",
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=Meador+Chrysler+Jeep+Dodge+Ram+9501+South+Fwy%2CFt+Worth+TX%2C+76140%2CUNITED_STATES",
+    "dealerPriority": "Standard",
+    "displayAdInfo": {},
+    "averageRating": 4.5,
+    "reviewCount": 6
+  },
+  "serviceProviderContract": {
+    "brandingEnabled": true,
+    "showTrackedPhone": true
+  },
+  "contactDetails": {
+    "firstName": "",
+    "lastName": "",
+    "emailAddress": "",
+    "postalCode": ""
+  },
+  "autoEntityInfo": {
+    "entityId": "t37273",
+    "entityType": "TRIM",
+    "make": "Chevrolet",
+    "model": "Camaro",
+    "year": 2011,
+    "trim": "2SS Coupe RWD",
+    "bodyStyle": "coupe",
+    "autoCategories": [
+      "sports_car",
+      "muscle_car"
+    ]
+  }
+}
