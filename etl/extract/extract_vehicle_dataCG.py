@@ -1,5 +1,4 @@
 import requests
-import pymongo
 from utils.mongo_config import mongo_collection
 
 # === Config ===
@@ -7,6 +6,9 @@ ZIP = "76131"
 DISTANCE = 100
 OFFSET = 0
 MAX_RESULT = 2
+
+# === Ensure unique index on 'id' ===
+mongo_collection.create_index("id", unique=True)
 
 # === Build URL ===
 url = "https://www.cargurus.com/Cars/searchResults.action"
@@ -35,13 +37,14 @@ for listing in data:
     listing_id = listing.get("id")
     listing_offset = listing.get("offset")
     if listing_id:
-        # Check if ID already exists
-        if mongo_collection.count_documents({"id": listing_id}) == 0:
-            mongo_collection.insert_one({
-                "id": listing_id,
-                "offset": listing_offset
-            })
-            print(f"Stored ID: {listing_id} with offset {listing_offset}")
+        # Atomic upsert
+        result = mongo_collection.update_one(
+            {"id": listing_id},
+            {"$setOnInsert": {"id": listing_id, "offset": listing_offset}},
+            upsert=True
+        )
+
+        if result.upserted_id:
+            print(f"Inserted new ID: {listing_id}")
         else:
             print(f"ID already exists: {listing_id}")
-
