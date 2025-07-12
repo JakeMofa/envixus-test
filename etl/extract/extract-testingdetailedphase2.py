@@ -1,6 +1,7 @@
 import requests
 import time
 import os
+import datetime
 from dotenv import load_dotenv
 from utils.mongo_config import mongo_collection, mongo_client, MONGO_DB_NAME
 
@@ -110,10 +111,13 @@ for listing_id in ids_list:
             "listingId": detail_data.get("listingId"),
             "listing": trimmed_listing,
             "autoEntityInfo": detail_data.get("autoEntityInfo"),
-            "listingDetailStatsSectionDto": detail_data.get("listingDetailStatsSectionDto")
+            "listingDetailStatsSectionDto": detail_data.get("listingDetailStatsSectionDto"),
+            "created_at": datetime.datetime.utcnow()
+
         }
 
         # === Insert into MongoDB ===
+        
         details_collection.insert_one(final_document)
         print(f"Stored details for ID: {listing_id}")
 

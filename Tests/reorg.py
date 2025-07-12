@@ -29,7 +29,7 @@ def generate_candidates(name):
         candidates.append(clean[:3])
     # Add all internal 2-3 letter substrings
     candidates.extend(get_substrings(clean))
-    # Deduplicate
+    
     seen = set()
     result = []
     for c in candidates:
@@ -38,7 +38,7 @@ def generate_candidates(name):
             result.append(c)
     return result
 
-# Assign unique codes
+
 used_codes = set()
 final_codes = []
 collision_counts = {}
